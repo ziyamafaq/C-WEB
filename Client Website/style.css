@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+    text-align: center;
+    background-color: black;
+    height: 50%;
+}
+.Options{
+    display: flex;
+}
+.new{
+    /* margin-left: 10%; */
+    color: black;
+}
+.men{
+    margin-left: 10%;
+    color: black;
+
+}
+.women{
+    margin-left: 10%;
+    color: black;
+
+}
+.bandg{
+    margin-left: 10%;
+    color: black;
+
+}
+.sale{
+    margin-left: 10%;
+    color: black;
+
+}
+/* .all{
+    
+} */
+
+.Red{
+    background-color: red;
+    /* margin-right: %; */
+    /* color: white; */
+}
+.mr{
+    margin-right: 30%;
+}
